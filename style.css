@@ -1,7 +1,7 @@
 /* Mengatur ukuran gambar logo */
 .logo-img {
     /* Gunakan tinggi, jangan lebar, agar proporsi terjaga */
-    height: 80px; /* Sesuaikan angka ini (misal 50px-70px) agar pas dengan navbar */
+    height: 60px; /* Sesuaikan angka ini (misal 50px-70px) agar pas dengan navbar */
     width: auto;  /* Jaga proporsi asli */
     display: block; /* Hindari spasi kosong di bawah gambar */
 }
